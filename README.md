@@ -146,6 +146,8 @@
 
 ## BEST ICONS
 
+* [IcoMoon](https://icomoon.io/)
+    * <p style="font-size: 12px">The best SVG icon website.</p>
 * [Ionicons](https://ionicons.com/)
     * <p style="font-size: 12px">My personal favorite #1 icon font, 100% free even for commercial usage.</p>
 * [Font Awesome](https://fontawesome.com/?from=io)
